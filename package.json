@@ -1,0 +1,13 @@
+{
+  "name": "imagetobase64api",
+  "version": "1.0.0",
+  "description": "This repository is TeamCloud's image to base64 API.",
+  "main": "api/index.js",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.1"
+  }
+}
